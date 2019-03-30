@@ -1,0 +1,48 @@
+[{
+  "name": "amy",
+  "url": "./images/amy.jpg"
+},
+{
+  "name": "bender",
+  "url": "./images/bender.jpg"
+},
+{
+  "name": "calculon",
+  "url": "./images/calculon.jpg"
+},
+{
+  "name": "fansworth",
+  "url": "./images/farnsworth.jpg"
+},
+{
+  "name": "fry",
+  "url": "./images/fry.jpg"
+},
+{
+  "name": "hermes",
+  "url": "./images/hermes.jpg"
+},
+{
+  "name": "kif",
+  "url": "./images/kif.jpg"
+},
+{
+  "name": "leela",
+  "url": "./images/leela.jpg"
+},
+{
+  "name": "neutral",
+  "url": "./images/neutral.jpg"
+},
+{
+  "name": "slurms",
+  "url": "./images/slurms.jpg"
+},
+{
+  "name": "zapp",
+  "url": "./images/zapp.jpg"
+},
+{
+  "name": "zoidberg",
+  "url": "./images/zoidberg.jpg"
+}]
